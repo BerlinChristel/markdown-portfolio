@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*kursiv ist dieser Text*
+_HTML, CSS_
+
+**fett ist dieser hier**
+__GitHub__
+
+_You **can** combine them_
